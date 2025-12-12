@@ -577,7 +577,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="ENTERTAINMENT",AXN (INDI)
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="MOVIES",AXN (INDI)
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/

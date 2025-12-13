@@ -383,9 +383,9 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="INDONESIA TV",Trans TV
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="INDONESIA TV",TRANS TV 
-#https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/02/Trans7-Landscape.jpg" group-title="INDONESIA TV",TRANS 7
+https://livestream.trans7.co.id/stream/live/ttv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SCTV_On-Air_2005-2017.png/revision/latest/scale-to-width-down/250?cb=20231122142224" group-title="INDONESIA TV", SCTV 
 #http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8

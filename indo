@@ -207,11 +207,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/hanacaraka.jpg" group-title="INDONESIA TV",HANACARAKA TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000152/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000165/1024.m3u8
 
 
 
@@ -240,11 +240,11 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png" group-title="MOVIES",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000159/1024.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000166/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000167/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000168/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000169/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000170/1024.m3u8
 
 
 #EXTINF:-1 tvg-id="ATV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1024px-ATV_logo_2020.png",ATV
@@ -395,8 +395,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000137/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="Sports",SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/5D0YW20.png" group-title="Sports",SPOTV 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 
 

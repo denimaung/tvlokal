@@ -16,7 +16,11 @@ EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.ope
 
  ######  ID chanel ######
 
-
+#https://www.netmedia.co.id/home
+#EXTGRP:INDONESIA TV
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/NET%20TV.jpg",NET. (Dens)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-group1-swiftservehd-1.dens.tv/h/h01/index.m3u8
 
 
 
@@ -49,7 +53,9 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:
 #http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="INews.id" tvg-name="inews tv" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_LdxoAluRADLiODXO_nC06a5t5F3l_0_CnPFOoVOiZJg.png" group-title="INDONESIA TV",INews TV
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkWpWhpg7-8y7i8F5tZ6EmY-KF0cOiKhdVw&s" group-title="INDONESIA TV",MDTV
@@ -86,14 +92,20 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="INDONESIA TV",RCTI HD
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctv.jpg" group-title="INDONESIA TV",MNCTV
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDONESIA TV",GTV
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA TV",SINDONEWS (TVOD)

@@ -575,7 +575,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #https://www.netmedia.co.id/home
 #EXTGRP:INDONESIA TV
-#EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/NET%20TV.jpg",NET
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/NET%20TV.jpg",NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
@@ -628,7 +628,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
 #EXTINF:-1 tvg-id="39" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihsKHdqD3a0NaPimwL5lf-IP28vy8ZFsXQXVhCSLMeydln2BUl1NA7pOaVQnGRhdkPXHEcV2kW0dhTQudxVqrDAoepRrVdNf0oXuEh-FC1fLv2yUCrGMsxeuCibvEtZnrxko0-I6zoZyGiZlzhfvHuX9s2bxwS4E6o9fJIfgvsq0741NkgYkhflBAgzOWY/s700/ROCK%20ENTERTAINMENT.png" group-title="🔴DENS TV", ROCK ENTERTAINMENT HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifhxfUh2hy4Fy4lwOnG_xA2sAOI3E62X3FqWtJlusVUinR8Xzcvu69kIvudEuYrAzTglWoQaxtf6TILyC7j8m04jSndzI2EEG0n0KWlahkv2vOxhpdGvRJz3cewNeizPk-C0cyECip9MU0ph68_WSpEiwuGpMx_ytDQXKSq9E4SCD4OSdwDk93H288cD_7/s700/ROCK%20ACTION.png" group-title="🔴DENS TV", ROCK ACTION HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -638,7 +638,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1 tvg-id="49" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFwMO21NwzZDdqXY4vlKZbMEG4X2DajrCPyspTmAQZfMtQat4_IdTaJbU_mdGE6fV2bPfcH2lJKRtt66-6jKh0fUw-y6s7cJVQ1YJxLYHtpbCPbMTB1y_GtJI8Liy1aBBPuogh4fIvwxvgudcXRMgXbPQDk30nL9et_sxnAynixOEeI1Yzt7nfLnIIHhD/s700/KIX.png" group-title="🔴DENS TV", KIX HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h07/index1.m3u8
 
 #EXTINF:-1 tvg-id="58" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlkVf8opmBsl3An-FC1dkN8LpgbEEPG5AIZzUkPTj6mih5ogV4MD84sS1RuA-oTft6TDH7iM0BPJYwxgT9_xdoQ1xO2ADkRD1UHam_55yjWfUxaGlQvhidM3o-NPriLcT6UBp1iGMC7V59PR7I3bB2XTU1hcEkRzev0_rQNGPSw2S60z-n6DTSb128mR_X/s700/TVN%20MOVIES.png" group-title="🔴DENS TV", TVN MOVIES HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -663,7 +663,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL-HL8z9zbvdX3i_39v0K9qKvDPVZs6Lq63rV6bVZb5GrCwwcpf3MNxSljGlzWRFkwteC4nFmL4grYi2rghYhsOs756SOtP76U9WrX1y12kR_LB0GA6AZprwuuDw9TLPdYLI7ZbUtnkxe3nWnv0yC7FHwUv_ZNMdTKj7F2Q1LBmPlRxbmGeXvkXUYpzKM5/s700/THRILL.png" group-title="🔴DENS TV", THRILL
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-id="95" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidyK0VbQWzMlO25rGfRB4zbUWjg8RnoIq1GaCyZPzQ_wZUn5kfeT_vrUL1n-9ClOhGIDh3HGqY9iuUa_vJgGQWLUBnGX6XKs4WAEBUPO57sgRnyr2IbTAd91jf1Ojhq_h9wNpn1L42HwWRRGJUojEMrCoyijWpABCuVV6rn2JJ7_tnxxsQChnVZVfHRwMo/s700/MY%20CINEMA.png" group-title="🔴DENS TV", MY CINEMA HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -683,7 +683,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZAKQT3js8_Uh-k75hGnHv9FQO7Q2o5mGB4jGQhVIfRz9nDVOtZSyP2H-wrNuyjp-IlLal2gCafuR6Q6w0ldltqe-OnVs-anrZ3lc88T6Z-47fQA2OabO4a81JXwUqpXFm2FIXAxz0pbpC-AjFl0EyHCnlB0HJiJBwfotHx5dj4qD5ELvuEgwdKSSeAu0g/s700/LIVE%20STREAMING%201.png" group-title="🔴DENS TV", LIVE STREAMING 1
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s100/index.m3u8
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvPzWNOz8S8LW7Pbc2A6KS6KX8NFcFEcEbwM0-GYgsue6WX20suR9y88DEGHGlw7pDUp8BwnR-XrGDtCvKFHIBMo0h8R5Tw9TzMIpLALXuS0FoHCKRB4R-QLDQqKSN7et5Om_UHgOq3vOlswqRGfhuVWzK6R8YbTVFz7aWIcZLrIg4f0qzIL94utpAWxj/s700/DENS%20PLAY.png" group-title="🔴DENS TV", DENSPLAY
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -712,7 +712,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1rlYlBWnYri7K3cAc5nHHoJBg-XYrwqfSFDdipbUItIcEtspCtvvDBktFwMrHQ4JoqTpWnyKytxZT71NrUxIy5uGw410djMQ3BYTGCBrRDDHzvbFLTmaSRXyPfYRmQX1tTiNfOnVjX18LrsdH98hRWoeG2L0OZfJZIOMgj58sebdHdXfRzeluLaiJu2v/s700/NADOO%20COMMERCE.png" group-title="🔴DENS TV", NADOO COMMERCE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h126/index.m3u8
 
 #EXTINF:-1 tvg-id="131" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJPw6CSzM4f8oZEPGwWiBSX72Wjtyuw31Xk2eYiZZJ1UY9ClHQR32_1Iz-ydVYZzddqiOvizehWNxBfEoKYOhUSaXJdyx8SQ3v2tR2dweZEIratNBGScU1attIezelHXqW8ZPrJN6cTscRo4ZopC3OXEn_QQK9m_EZWEzVfkTPzZfFaWH6_W4LPaWay4Pt/s700/IDTV.png" group-title="🔴DENS TV", IDTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -767,12 +767,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvFD25_tW-pzEnmZW4RO95laNwdijQiibNPAiyjZfQbBTOuE7Cx2sJhLWF14JflO52nNYNbVGgIaPGVq2Sx2eHu7rpVhvGs8Gg2-L3uMcy9xxisUCEtMIUTmoXbQpO_N94giS6M-AVBzGyZBBYHKFgfmAegpHUkK47l5L8XmEDMm0uA8P9yFDCwQjVHaa/s700/K+.png" group-title="🔴DENS TV", K-PLUS HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h08/index1.m3u8
 
 #EXTINF:-1 tvg-id="59" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIassJXBlkU6-8OkAqMCZysRXf9A5xogmFXTaNApCfwDnb8okKc45Y86FGvYjQl__Uq-vk6D6_F9MlLEgnCyct1upWFKuaCRyRxQ9-vKtWH4tB4gLQpjPVAwArGYJSH3pp5nwC6PgvjsbDf_cjLJdob05vJ4tlOPbgpZzjcOB5oNiygnDwQsiQqIQIU2Q/s700/TVN.png" group-title="🔴DENS TV", TVN HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h20/index1.m3u8
  
 #EXTINF:-1 tvg-id="37" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdsAHb6IpjVh5uPBbns_nyJpIPuSKeDkcXspNPbdQuwBC6BF35_BIE1bio9nb4WdU0-8H-uVJpuvLsbIUY06TtfDfBR7-D47dbBeMOch2X7N2swAoFIBZ6QzrHU8H0Hvfa3gMVC59VfklKwDUPpvh8nSn-ckFsyN1G6r0M-aA517G6TwrC2Z31UtMtyq-y/s700/TV5%20MONDE%20STYLE.png" group-title="🔴DENS TV", TV5MONDE STYLE HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -812,12 +812,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 #EXTINF:-1 tvg-id="120" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg38KPUscthFjIAdpG9ULaiggOIOINVQ31pmTEXamdXUltO0vcwN5c3Iz2ZPxfdbk3XGcODu61yEjHPWLIMQfUkiF6T8aCiiKinL1zNHhyphenhyphenRz2bfeTdIZj7TFzABQRngRoCTjTN0HaJTN3HbrWYAEqM6hwOnGLcNLW_OPrQ2kwyyFtnu_OgKWWHyKOHWOkIz/s700/MOTOR%20RACING%20TV.png" group-title="🔴DENS TV", MOTOR RACING TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h123/index.m3u8
 
 #EXTINF:-1 tvg-id="121" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoL6XysbFwcxZawmrY9KuNo2CdUpK-JLwoYBwqy6RsgBIYanD8n63-XTDR1y6-_Vg4ihK7L9HG6-SgHDMyICw70zFrVOrNfSDb6cY33oOHjrOJASN5gIREl__igqjU_MYTP-DV98AipU9B1v_5V2mLKORLxMt_bw8DD9zYtzICAAudU6XkXLFZmwg5n_yD/s700/HORIZON%20SPORTS.png" group-title="🔴DENS TV", HORIZON SPORTS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h127/index.m3u8
  
 #EXTINF:-1 tvg-id="123" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4xmH7L-GiJdxcGCs7kjG-gWhxcGxvaVWlNnc65RVGmttWuPue45jmFHrSZ9Eux78A4jqTBHRJx6hQCwOiW4CHvO3NkSI3W75xNmgv8CPays5V_2TG6ZCgC9pYl2pMwcygQ7WvHGrF7EUczRIAFsqKqU4-EwccPnkjUvKYmFvd74oKaXWnV2nLYxB0zRmV/s700/W-SPORT.png" group-title="🔴DENS TV", W-SPORT
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -827,7 +827,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 #EXTINF:-1 tvg-id="61" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwplWB_T6jTauJij8vL_XkEiogRFTYQnBSi8lHAW7P7jCfNEYNoKtSfBhMErkjGRgFrgxeSyJ2SDhBCtKQsQDgkt6RsO0qUGFcwfEUHrnj8zPr6NvjdZsqQq_QkfeSEAWxnmLXFZZgrDGGsv1YtfbuW5j7yPurjuhJJFPODgsiRLcn_8B0duZ_KMPlJggK/s700/CNA.png" group-title="🔴DENS TV", CNA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
  
 
 #EXTINF:-1 tvg-id="77" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mTOfH6I9E4LtinZiQ25AYRrHsIwosUD4FQO0tG2AnOZQkPBsoJyBzspwZHolRXiVbP5ILd2TVQk0TT5SzCBWEQmX5aMs0gt0wtDbp_vwrkWiTO6IcwYNNt39OLpUwRKYzP6N31fO61T0klkTcY-1N_CbquPn1_EbcLrIz8G2YafOIUcfmS7C1GsUCiuz/s700/NHK%20WORLD%20JAPAN.png" group-title="🔴DENS TV", NHK WORLD JAPAN
